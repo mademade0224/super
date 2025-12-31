@@ -1,0 +1,36 @@
+    body {
+      background-color: #fff0f5;
+    }
+    h1 {
+      color: #ff69b4;
+    }
+    p {
+      font-size: 18px;
+    }
+    button {
+      padding: 10px 20px;
+      font-size: 16px;
+      background-color: #ffb6c1;
+      border: none;
+      border-radius: 10px;
+      margin-right: 10px;
+    }
+    button:hover {
+      background-color: #d8bfd8;
+    }
+    .btn {
+      display: inline-block;
+      padding: 10px 20px;
+      font-size: 16px;
+      background-color: #ffb6c1;
+      color: white;
+      text-decoration: none;
+      border-radius: 10px;
+    }
+
+    .btn:hover {
+      background-color: #d8bfd8;
+    }
+   .text { color:black; }
+   #main { font-weight: bold; }
+ 
